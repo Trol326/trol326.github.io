@@ -1,0 +1,3 @@
+domain: trol326.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://trol326.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /trol326.github.io/      # place folder name if the site is served in a subfolder
